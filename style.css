@@ -1,0 +1,392 @@
+
+
+#logo {
+  width: 10%;
+  position: fixed;
+  right: 90%;
+}
+
+#bg {
+  filter: brightness(59%);
+}
+
+
+  
+  .navbar0 li{
+    float: right;
+    
+  }
+  
+  .navbar0 a{
+    color:rgb(57, 59, 68);
+    text-decoration: none;
+    font-family: 'helvetica', Courier, monospace;
+    padding: 20px;
+    font-size: 10px;
+    float: right;
+    background-color: #ffefcf;
+  }
+  
+  .navbar0 a:hover{
+    background-color: #f5c972;
+  }
+  footer{
+    text-align: center;
+    background-color: hwb(0 28% 71% / 0.897);
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+  }
+  
+p { margin: 100px; }; or p { margin: 100px; }
+
+body {background-color: #dbaa49;}
+
+.characters{
+    font-family: Helvetica, sans-serif;
+}
+
+.dropbtn {
+  background-color: #f5c972;
+  color: rgb(70, 68, 68);
+  padding: 16px;
+  font-family: Helvetica, sans-serif;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+ 
+}
+
+.dropdown0 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown0-content {
+  display: none;
+  font-family: Helvetica, sans-serif;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
+  z-index: 1;
+}
+
+.dropdown0-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown0-content a:hover {background-color: #f2dbad}
+
+.dropdown0:hover .dropdown0-content {
+  display: block;
+}
+
+.dropdown0:hover .dropbtn {
+  background-color: #ffefcf;
+}
+
+
+.dropdown1 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown1-content {
+  display: none;
+  font-family: Helvetica, sans-serif;
+  position: absolute;
+  background-color: #000000d3;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(38, 37, 37, 0.2);
+  z-index: 1;
+}
+
+.dropdown1-content a {
+  color: rgb(165, 165, 165);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown1-content a:hover {
+  background-color: #f2dbad;
+  color: black;
+}
+
+.dropdown1:hover .dropdown1-content {
+  display: block;
+}
+
+.dropdown1:hover .dropbtn {
+  background-color: #ffefcf;
+}
+
+
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown2-content {
+  display: none;
+  font-family: Helvetica, sans-serif;
+  position: absolute;
+  background-color: #000000d3;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(38, 37, 37, 0.2);
+  z-index: 1;
+}
+
+.dropdown2-content a {
+  color: rgb(165, 165, 165);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown2-content a:hover {background-color: #f2dbad;
+  color: black;}
+
+.dropdown2:hover .dropdown2-content {
+  display: block;
+}
+
+.dropdown2:hover .dropbtn {
+  background-color: #ffefcf;
+}
+
+
+.dropdown3 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown3-content {
+  display: none;
+  font-family: Helvetica, sans-serif;
+  position: absolute;
+  background-color: #000000d3;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(38, 37, 37, 0.2);
+  z-index: 1;
+}
+
+.dropdown3-content a {
+  color: rgb(165, 165, 165);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown3-content a:hover {background-color: #f2dbad;
+  color: black;}
+
+.dropdown3:hover .dropdown3-content {
+  display: block;
+}
+
+.dropdown3:hover .dropbtn {
+  background-color: #ffefcf;
+}
+
+
+.dropdown0 {
+  position: fixed;
+  right: 83.4%;
+  bottom: 91.2%;
+}
+
+.dropdown1 {
+  position: fixed;
+  bottom: 91.2%;
+  right: 73%;
+}
+
+.dropdown2 {
+  position: fixed;
+  bottom: 91.2%;
+  right: 60.5%;
+}
+
+.dropdown3 {
+  position: fixed;
+  bottom: 91.2%;
+  right: 51.6%;
+}
+
+.navbar0 {
+  position: fixed;
+  bottom: 10%;
+  right: 0;
+}
+
+.navbar1 li{
+  float: right;
+  
+}
+
+.navbar1 a{
+  color:rgb(57, 59, 68);
+  text-decoration: none;
+  font-family: 'helvetica', Courier, monospace;
+  padding: 20px;
+  font-size: 10px;
+  float: right;
+  background-color: #ffefcf;
+}
+
+.navbar1 a:hover{
+  background-color: #f5c972;
+}
+
+.navbar1 {
+  position: absolute;
+  bottom: -10%;
+  right: 5.5%;
+}
+
+.web {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 50%;
+  position: absolute;
+  bottom: -20%;
+  color: beige;
+}
+
+#oda {
+  border-color: #fff3da;
+  border: 10px;
+  border-radius: 8%;
+  position: absolute;
+  right: 25%;
+  bottom: 20%;
+}
+
+.author {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  width: 40%;
+  position: absolute;
+  right: 30%;
+  bottom: -40%;
+  background-color: rgba(255, 255, 255, 0.526);
+  
+}
+
+
+.button {
+  text-decoration: none;
+  padding: 15px 20px;
+  border: none;
+  outline: none;
+  background-color: #ffffff;
+  color: rgb(70, 68, 68);
+  border-radius: 7px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease-out;
+  position: fixed;
+  right: 0%;
+  
+}
+
+.button:hover {
+  transform: translateY(-3px);
+  color: rgb(255, 234, 163);
+}
+
+.button-span {
+  color: #aaa;
+}
+
+
+a { text-decoration: none; color:rgb(70, 68, 68); }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+
+.card {
+  width: 93.8em;
+  height: 20.0em;
+  background: #171717a9;
+  transition: 1s ease-in-out;
+  clip-path: polygon(30px 0%, 100% 0, 100% calc(100% - 30px), calc(100% - 30px) 100%, 0 100%, 0% 30px);
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  bottom: 0%;
+  position: fixed;
+}
+
+.card span {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  display: block;
+  font-size: 1.8em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card .info {
+  font-weight: 400;
+  color: white;
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 1em;
+}
+
+.card .img {
+  width: 20.8em;
+  height: 0.8em;
+  background: white;
+  border-radius: 15px;
+  margin: auto;
+}
+
+.card .share {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+}
+
+.card a {
+  color: white;
+  transition: .4s ease-in-out;
+}
+
+.card a:hover {
+  color: #e7c27a;
+}
+
+.card button {
+  padding: 0.8em 1.7em;
+  display: block;
+  margin: auto;
+  border-radius: 25px;
+  border: none;
+  font-weight: bold;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+  transition: .4s ease-in-out;
+}
+
+.card button:hover {
+  background: #e7c27a;
+  color: rgb(70, 68, 68);
+  cursor: pointer;
+}
+
+#anji-mary {
+  position: absolute;
+  width: 1500px;
+
+}
